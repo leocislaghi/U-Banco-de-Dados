@@ -6,3 +6,4 @@
 - [ X ] 19/08/2026 - Introdução Procedures
 - [ X ] 21/08/2026 - Atividade Procedures
 - [ X ] 25/08/2026 - Revisão para prova
+- [ X ] 26/08/2026 - Prova 
